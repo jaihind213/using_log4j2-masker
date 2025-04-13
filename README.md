@@ -48,3 +48,4 @@ LogCensor for logger created. enabled: true .options are: [enabled=true]
     - `2.6.1`
     - `2.1`
       - refer to the [`pom_legacy.xml`](./pom_legacy.xml)  on how to shade the JAR correctly.
+        - ex: refer to branch 'log4j2_2.18.0' of this project on how to shade the JAR correctly.
