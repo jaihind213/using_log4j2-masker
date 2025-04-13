@@ -1,7 +1,7 @@
 # using_log4j2-masker
 Demonstrating use of log4j2-masker library. how to censor sensitive words in logs.
 
-i.e. how to use https://github.com/jaihind213/using_log4j2-masker
+i.e. how to use https://github.com/jaihind213/log4j2-masker
 
 ### Prerequisites
 
